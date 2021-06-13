@@ -5,6 +5,10 @@ A Netflix clone built using React. It fetches the data from [The Movie Database]
 ## Have A Look
 ![Screenshot from 2021-06-13 21-40-55](https://user-images.githubusercontent.com/83898837/121815138-809d0e00-cc92-11eb-9d4c-422338a2a32d.png)
 
+## Demo
+* [Visit Here] For Demo (https://netflix-clone-react-e619e.web.app/)
+* This app is deployed using [Firebase](https://firebase.google.com/).
+
 ## Libraries Used:
 * [Axios](https://www.npmjs.com/package/axios)
 * [Firebase Tools](https://www.npmjs.com/package/firebase-tools)
