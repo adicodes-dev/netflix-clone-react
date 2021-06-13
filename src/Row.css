@@ -1,5 +1,6 @@
 .row {
-    margin-left: 20px;
+  color: #fff;
+  margin-left: 20px;
 }
 
 .row__posters {
@@ -31,7 +32,6 @@
 }
 
 .row__posterLarge:hover {
-    transform: scale(1.09);
-    opacity: 1;
-  }
-  
+  transform: scale(1.09);
+  opacity: 1;
+}
