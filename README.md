@@ -1,6 +1,6 @@
 # Netflix Clone using React.
 
-A Netflix clone built using React. It fetches the data from TMDB [The Movie Database](https://www.themoviedb.org/) API.
+A Netflix clone built using React. It fetches the data from [The Movie Database](https://www.themoviedb.org/)(TMDB) API.
 
 ## Have A Look
 ![Screenshot from 2021-06-13 21-40-55](https://user-images.githubusercontent.com/83898837/121815138-809d0e00-cc92-11eb-9d4c-422338a2a32d.png)
