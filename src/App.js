@@ -1,11 +1,13 @@
 import "./App.css";
 import Row from "./Row";
 import requests from "./request";
+import Banner from './Banner';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Netflix Clone</h1>
+    <div className="app">
+      {/* <h1>Netflix Clone</h1> */}
+      <Banner />
       <Row
         title="NETFLIX ORIGINALS"
         fetchUrl={requests.fetchNetflixOriginals}
