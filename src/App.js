@@ -1,12 +1,13 @@
 import "./App.css";
-import Row from "./Row";
 import requests from "./request";
-import Banner from './Banner';
+import Row from "./components/Row";
+import Banner from "./components/Banner";
+import Nav from "./components/Nav";
 
 function App() {
   return (
     <div className="app">
-      {/* <h1>Netflix Clone</h1> */}
+      <Nav />
       <Banner />
       <Row
         title="NETFLIX ORIGINALS"
